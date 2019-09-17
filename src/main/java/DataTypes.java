@@ -4,8 +4,7 @@ import java.io.*;
 
 
 class DataTypes{
-    public static void main(String []argh)
-    {
+    public static void main(String []argh){
         Scanner sc = new Scanner(System.in);
         int t=sc.nextInt();
 
@@ -26,7 +25,10 @@ class DataTypes{
             }
 
         }
-    }
+
+      }
+
+
 }
 
 
